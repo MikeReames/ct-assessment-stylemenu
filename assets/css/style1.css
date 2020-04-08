@@ -12,7 +12,7 @@ nav {font-family: sans-serif;
 }
 #main {width: 900px; margin: 10px auto;}
 body {
-    font-family: "Lato";
+    font-family: 'Lato';
     background-image: url("../images/map-bg.jpg");
     
 }
